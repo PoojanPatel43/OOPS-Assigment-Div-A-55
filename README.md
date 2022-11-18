@@ -27,7 +27,8 @@ PS C:\Users\Poojan Patel\IdeaProjects\JAVA (MCA)\src> java GradingManagementSyst
 
 ## DISPLAYING RECORDS
 
-<img width="950" alt="image" src="https://user-images.githubusercontent.com/118496934/202610208-716caea1-c708-44dc-8a59-fb11428cd28b.png">
+<img width="960" alt="DisplayingRecords" src="https://user-images.githubusercontent.com/118496934/202614239-bb426d06-0625-49db-b76c-b9dcc2f1414b.png">
+
 
 ## DISPLAYING STATISTICS 
 
